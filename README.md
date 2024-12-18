@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/RajamdGamer/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/RajamdGamer/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RajamdGamer/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/RajamdGamer/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/RajamdGamer/Leetcode-Problems/tree/master/0056-merge-intervals) |
 ## Math
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/RajamdGamer/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/RajamdGamer/Leetcode-Problems/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/RajamdGamer/Leetcode-Problems/tree/master/0055-jump-game) |
 ## Stack
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/RajamdGamer/Leetcode-Problems/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/RajamdGamer/Leetcode-Problems/tree/master/0055-jump-game) |
 ## Simulation
 |  |
 | ------- |
