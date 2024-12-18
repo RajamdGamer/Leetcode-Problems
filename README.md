@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/RajamdGamer/Leetcode-Problems/tree/master/0048-rotate-image) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/RajamdGamer/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
