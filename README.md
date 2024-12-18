@@ -11,4 +11,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RajamdGamer/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/RajamdGamer/Leetcode-Problems/tree/master/0031-next-permutation) |
+## Array
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/RajamdGamer/Leetcode-Problems/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
