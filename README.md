@@ -34,10 +34,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/RajamdGamer/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/RajamdGamer/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/RajamdGamer/Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/RajamdGamer/Leetcode-Problems/tree/master/0018-4sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/RajamdGamer/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/RajamdGamer/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
