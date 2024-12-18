@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/RajamdGamer/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/RajamdGamer/Leetcode-Problems/tree/master/0060-permutation-sequence) |
 ## Matrix
 |  |
 | ------- |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/RajamdGamer/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/RajamdGamer/Leetcode-Problems/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
