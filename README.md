@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RajamdGamer/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/RajamdGamer/Leetcode-Problems/tree/master/0061-rotate-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RajamdGamer/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/RajamdGamer/Leetcode-Problems/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/RajamdGamer/Leetcode-Problems/tree/master/0061-rotate-list) |
 ## Array
 |  |
 | ------- |
