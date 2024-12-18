@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/RajamdGamer/Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/RajamdGamer/Leetcode-Problems/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/RajamdGamer/Leetcode-Problems/tree/master/0031-next-permutation) |
+| [0045-jump-game-ii](https://github.com/RajamdGamer/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/RajamdGamer/Leetcode-Problems/tree/master/0048-rotate-image) |
 ## Math
 |  |
@@ -45,8 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/RajamdGamer/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/RajamdGamer/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 ## Stack
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/RajamdGamer/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/RajamdGamer/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
